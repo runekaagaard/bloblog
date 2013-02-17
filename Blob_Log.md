@@ -10,5 +10,8 @@ Is a tiny blog that etc.
 
 New p powfpeof
 
-    This is code?
-    yes it is, joffi
+    from abc import yeah
+    yeah.doit(42(
+    
+    def so():
+        return 09
